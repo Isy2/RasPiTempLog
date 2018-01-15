@@ -3,7 +3,7 @@ Raspberry Pi Java Temperature Logger
 
 # Overview
 
-This is a project I'm working on for a friend who wants to recodrd temperatures on his computer. I'm using a RaspberryPi B+ with
+This is a project I'm working on for a friend who wants to record temperatures on his computer. I'm using a RaspberryPi B+ with
 some temperature probes that will input data then output it in a .csv chart.
 
 # In the Future...
